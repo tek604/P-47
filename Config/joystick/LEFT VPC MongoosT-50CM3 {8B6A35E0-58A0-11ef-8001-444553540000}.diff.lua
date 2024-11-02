@@ -84,10 +84,26 @@ local diff = {
 			},
 			["name"] = "Mixture (next selection)",
 		},
+		["d3019pnilunilcd2vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN36_OFF",
+				},
+			},
+			["name"] = "Canopy CLOSE",
+		},
+		["d3019pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN36",
+				},
+			},
+			["name"] = "Canopy OPEN",
+		},
 		["d3021pnilu3021cd3vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN55",
+					["key"] = "JOY_BTN49",
 				},
 			},
 			["name"] = "Starter ENERGIZE",
@@ -95,10 +111,34 @@ local diff = {
 		["d3021pnilu3021cd3vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN54",
+					["key"] = "JOY_BTN48",
 				},
 			},
 			["name"] = "Starter ENGAGE",
+		},
+		["d3024pnilunilcd8vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN35_OFF",
+				},
+			},
+			["name"] = "Generator OFF",
+		},
+		["d3024pnilunilcd8vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN35",
+				},
+			},
+			["name"] = "Generator ON",
+		},
+		["d3025pnilu3025cd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Operate Fuel Priming Pump",
 		},
 		["d3027pnilunilcd3vd-1vpnilvunil"] = {
 			["added"] = {
@@ -115,6 +155,14 @@ local diff = {
 				},
 			},
 			["name"] = "Magneto Switch (next selection)",
+		},
+		["d3028pnilu3028cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN39",
+				},
+			},
+			["name"] = "Wheel brake Parking",
 		},
 		["d3031pnilu3031cd2vd0vpnilvu0.5"] = {
 			["added"] = {
@@ -164,6 +212,62 @@ local diff = {
 			},
 			["name"] = "Undercarriage DOWN",
 		},
+		["d3043pnilu3043cd3vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN29",
+				},
+			},
+			["name"] = "Intercooler Shutter CLOSE",
+		},
+		["d3043pnilu3043cd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+				},
+			},
+			["name"] = "Intercooler Shutter OPEN",
+		},
+		["d3043pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN38",
+				},
+			},
+			["name"] = "Tail Wheel Lock (toggle)",
+		},
+		["d3046pnilu3046cd3vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "Oil Cooler Shutter CLOSE",
+		},
+		["d3046pnilu3046cd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Oil Cooler Shutter OPEN",
+		},
+		["d3048pnilunilcd3vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN55",
+				},
+			},
+			["name"] = "Main Fuel Selector Valve (next selection)",
+		},
+		["d3048pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN54",
+				},
+			},
+			["name"] = "Main Fuel Selector Valve (previous selection)",
+		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon release",
 			["removed"] = {
@@ -195,6 +299,14 @@ local diff = {
 				},
 			},
 			["name"] = "Boost INCREASE",
+		},
+		["dnilp3023unilcd3vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Primer Lock (toggle)",
 		},
 	},
 }
