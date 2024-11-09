@@ -204,6 +204,14 @@ local diff = {
 			},
 			["name"] = "Landing Flaps EXTEND (hold) / NEUTRAL (release)",
 		},
+		["d3032pnilunilcd14vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN59",
+				},
+			},
+			["name"] = "Left Arming (toggle)",
+		},
 		["d3032pnilunilcd8vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -220,6 +228,14 @@ local diff = {
 			},
 			["name"] = "Battery ON",
 		},
+		["d3034pnilunilcd14vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN61",
+				},
+			},
+			["name"] = "Right Arming (toggle)",
+		},
 		["d3035pnilunilcd2vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -235,6 +251,14 @@ local diff = {
 				},
 			},
 			["name"] = "Undercarriage DOWN",
+		},
+		["d3036pnilunilcd14vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN60",
+				},
+			},
+			["name"] = "Belly Arming (toggle)",
 		},
 		["d3037pnilunilcd14vd0vpnilvunil"] = {
 			["added"] = {
