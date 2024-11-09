@@ -68,6 +68,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3014pnilunilcd14vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN56",
+				},
+			},
+			["name"] = "Left Wing Bomb Arming (toggle)",
+		},
 		["d3017pnilunilcd3vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -83,6 +91,14 @@ local diff = {
 				},
 			},
 			["name"] = "Mixture (next selection)",
+		},
+		["d3018pnilunilcd14vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN57",
+				},
+			},
+			["name"] = "Right Wing Bomb Arming (toggle)",
 		},
 		["d3019pnilunilcd2vd-1vpnilvunil"] = {
 			["added"] = {
@@ -115,6 +131,14 @@ local diff = {
 				},
 			},
 			["name"] = "Starter ENGAGE",
+		},
+		["d3022pnilunilcd14vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN58",
+				},
+			},
+			["name"] = "Belly Bomb Arming (toggle)",
 		},
 		["d3024pnilunilcd8vd0vpnilvunil"] = {
 			["added"] = {
@@ -211,6 +235,22 @@ local diff = {
 				},
 			},
 			["name"] = "Undercarriage DOWN",
+		},
+		["d3037pnilunilcd14vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN37_OFF",
+				},
+			},
+			["name"] = "Weapon Ready Switch Cover OFF",
+		},
+		["d3037pnilunilcd14vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN37",
+				},
+			},
+			["name"] = "Weapon Ready Switch Cover ON",
 		},
 		["d3043pnilu3043cd3vd-1vpnilvu0"] = {
 			["added"] = {

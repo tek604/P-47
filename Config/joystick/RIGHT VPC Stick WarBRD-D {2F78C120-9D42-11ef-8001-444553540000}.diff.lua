@@ -1,5 +1,21 @@
 local diff = {
 	["keyDiffs"] = {
+		["d3002pnilunilcd22vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Rockets Release (previous selection)",
+		},
+		["d3002pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Rockets Release (next selection)",
+		},
 		["d3004pnilunilcd14vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -24,7 +40,44 @@ local diff = {
 			},
 			["name"] = "Gun Safety CAMERA ONLY",
 		},
+		["d3039pnilunilcd14vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Weapon Ready Switch OFF",
+		},
+		["d3039pnilunilcd14vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Weapon Ready Switch ON",
+		},
+		["d3041pnilunilcd14vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "Rocket Selector OFF",
+		},
+		["d3041pnilunilcd14vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Rocket Selector ON",
+		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
 			["name"] = "Weapon release",
 			["removed"] = {
 				[1] = {
